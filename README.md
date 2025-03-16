@@ -19,7 +19,7 @@ Bu proje, **Spring Boot** kullanılarak geliştirilmiş, ürün, sepet ve sipari
 - PostgreSQL
 - Lombok
 - Swagger UI
-
+- Spring Security
 ---
 
 ## ⚙️ Kurulum
